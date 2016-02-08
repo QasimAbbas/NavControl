@@ -1,2 +1,2 @@
-# NavControl
-NavController Game
+# AlexMazeGame
+Alex's Other Game
